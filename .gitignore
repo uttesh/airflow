@@ -1,0 +1,16 @@
+
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-03T09:00:00+00:00/task_id=fetch_stock_prices/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-03T09:00:00+00:00/task_id=send_email/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-04T09:00:00+00:00/task_id=fetch_stock_prices/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-04T09:00:00+00:00/task_id=send_email/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-05T09:00:00+00:00/task_id=fetch_stock_prices/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-05T09:00:00+00:00/task_id=send_email/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-06T09:00:00+00:00/task_id=fetch_stock_prices/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-06T09:00:00+00:00/task_id=send_email/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-07T09:00:00+00:00/task_id=fetch_stock_prices/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-07T09:00:00+00:00/task_id=send_email/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-08T09:00:00+00:00/task_id=fetch_stock_prices/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-08T09:00:00+00:00/task_id=send_email/attempt=1.log
+stock-price-notification/logs/dag_id=stock_price_notification/run_id=scheduled__2024-03-08T09:00:00+00:00/task_id=send_email/attempt=2.log
+stock-price-notification/logs/dag_processor_manager/dag_processor_manager.log
+stock-price-notification/logs/scheduler/2024-03-08/native_dags/example_dags/example_bash_operator.py.log
